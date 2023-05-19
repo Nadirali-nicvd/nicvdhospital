@@ -1,0 +1,242 @@
+[debug] [2023-05-18T22:43:10.451Z] ----------------------------------------------------------------------
+[debug] [2023-05-18T22:43:10.454Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\MUHAMMAD TAHA SOOMRO\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js login
+[debug] [2023-05-18T22:43:10.455Z] CLI Version:   12.0.1
+[debug] [2023-05-18T22:43:10.456Z] Platform:      win32
+[debug] [2023-05-18T22:43:10.456Z] Node Version:  v18.16.0
+[debug] [2023-05-18T22:43:10.458Z] Time:          Fri May 19 2023 03:43:10 GMT+0500 (Pakistan Standard Time)
+[debug] [2023-05-18T22:43:10.458Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2023-05-18T22:43:10.462Z] >>> [apiv2][query] GET https://firebase-public.firebaseio.com/cli.json [none]
+[info] i  Firebase optionally collects CLI and Emulator Suite usage and error reporting information to help improve our products. Data is collected in accordance with Google's privacy policy (https://policies.google.com/privacy) and is not used to identify you.
+ 
+[debug] [2023-05-18T22:43:11.265Z] <<< [apiv2][status] GET https://firebase-public.firebaseio.com/cli.json 200
+[debug] [2023-05-18T22:43:11.266Z] <<< [apiv2][body] GET https://firebase-public.firebaseio.com/cli.json {"cloudBuildErrorAfter":1594252800000,"cloudBuildWarnAfter":1590019200000,"defaultNode10After":1594252800000,"minVersion":"3.0.5","node8DeploysDisabledAfter":1613390400000,"node8RuntimeDisabledAfter":1615809600000,"node8WarnAfter":1600128000000}
+[info] i  To change your data collection preference at any time, run `firebase logout` and log in again. 
+[info] 
+[info] Visit this URL on this device to log in:
+[info] https://accounts.google.com/o/oauth2/auth?client_id=563584335869-fgrhgmd47bqnekij5i8b5pr03ho849e6.apps.googleusercontent.com&scope=email%20openid%20https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fcloudplatformprojects.readonly%20https%3A%2F%2Fwww.googleapis.com%2Fauth%2Ffirebase%20https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fcloud-platform&response_type=code&state=583643344&redirect_uri=http%3A%2F%2Flocalhost%3A9005
+[info] 
+[info] Waiting for authentication...
+[debug] [2023-05-18T22:43:36.362Z] Unable to open URL: Error: spawn UNKNOWN
+    at ChildProcess.spawn (node:internal/child_process:413:11)
+    at Object.spawn (node:child_process:757:9)
+    at module.exports (C:\Users\MUHAMMAD TAHA SOOMRO\AppData\Roaming\npm\node_modules\firebase-tools\node_modules\open\index.js:114:34)
+    at open (C:\Users\MUHAMMAD TAHA SOOMRO\AppData\Roaming\npm\node_modules\firebase-tools\lib\auth.js:139:5)
+    at Server.<anonymous> (C:\Users\MUHAMMAD TAHA SOOMRO\AppData\Roaming\npm\node_modules\firebase-tools\lib\auth.js:371:13)
+    at Object.onceWrapper (node:events:627:28)
+    at Server.emit (node:events:513:28)
+    at Server.emit (node:domain:489:12)
+    at emitListeningNT (node:net:1774:10)
+    at process.processTicksAndRejections (node:internal/process/task_queues:81:21)
+[debug] [2023-05-18T23:15:26.117Z] ----------------------------------------------------------------------
+[debug] [2023-05-18T23:15:26.120Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\MUHAMMAD TAHA SOOMRO\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js login
+[debug] [2023-05-18T23:15:26.121Z] CLI Version:   12.0.1
+[debug] [2023-05-18T23:15:26.122Z] Platform:      win32
+[debug] [2023-05-18T23:15:26.122Z] Node Version:  v18.16.0
+[debug] [2023-05-18T23:15:26.123Z] Time:          Fri May 19 2023 04:15:26 GMT+0500 (Pakistan Standard Time)
+[debug] [2023-05-18T23:15:26.124Z] ----------------------------------------------------------------------
+[debug] 
+[info] i  Firebase optionally collects CLI and Emulator Suite usage and error reporting information to help improve our products. Data is collected in accordance with Google's privacy policy (https://policies.google.com/privacy) and is not used to identify you.
+ 
+[info] i  To change your data collection preference at any time, run `firebase logout` and log in again. 
+[info] 
+[info] Visit this URL on this device to log in:
+[info] https://accounts.google.com/o/oauth2/auth?client_id=563584335869-fgrhgmd47bqnekij5i8b5pr03ho849e6.apps.googleusercontent.com&scope=email%20openid%20https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fcloudplatformprojects.readonly%20https%3A%2F%2Fwww.googleapis.com%2Fauth%2Ffirebase%20https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fcloud-platform&response_type=code&state=659981396&redirect_uri=http%3A%2F%2Flocalhost%3A9005
+[info] 
+[info] Waiting for authentication...
+[debug] [2023-05-18T23:15:33.153Z] Unable to open URL: Error: spawn UNKNOWN
+    at ChildProcess.spawn (node:internal/child_process:413:11)
+    at Object.spawn (node:child_process:757:9)
+    at module.exports (C:\Users\MUHAMMAD TAHA SOOMRO\AppData\Roaming\npm\node_modules\firebase-tools\node_modules\open\index.js:114:34)
+    at open (C:\Users\MUHAMMAD TAHA SOOMRO\AppData\Roaming\npm\node_modules\firebase-tools\lib\auth.js:139:5)
+    at Server.<anonymous> (C:\Users\MUHAMMAD TAHA SOOMRO\AppData\Roaming\npm\node_modules\firebase-tools\lib\auth.js:371:13)
+    at Object.onceWrapper (node:events:627:28)
+    at Server.emit (node:events:513:28)
+    at Server.emit (node:domain:489:12)
+    at emitListeningNT (node:net:1774:10)
+    at process.processTicksAndRejections (node:internal/process/task_queues:81:21)
+[debug] [2023-05-18T23:19:07.072Z] >>> [apiv2][query] POST https://accounts.google.com/o/oauth2/token [none]
+[debug] [2023-05-18T23:19:07.073Z] >>> [apiv2][body] POST https://accounts.google.com/o/oauth2/token [omitted]
+[debug] [2023-05-18T23:19:07.708Z] <<< [apiv2][status] POST https://accounts.google.com/o/oauth2/token 200
+[debug] [2023-05-18T23:19:07.708Z] <<< [apiv2][body] POST https://accounts.google.com/o/oauth2/token [omitted]
+[debug] [2023-05-18T23:19:08.221Z] Error: EPERM: operation not permitted, rename 'C:\Users\MUHAMMAD TAHA SOOMRO\.config\configstore\firebase-tools.json.241000132' -> 'C:\Users\MUHAMMAD TAHA SOOMRO\.config\configstore\firebase-tools.json'
+    at Object.renameSync (node:fs:1040:3)
+    at Function.writeFileSync [as sync] (C:\Users\MUHAMMAD TAHA SOOMRO\AppData\Roaming\npm\node_modules\firebase-tools\node_modules\write-file-atomic\index.js:244:8)
+    at set all [as all] (C:\Users\MUHAMMAD TAHA SOOMRO\AppData\Roaming\npm\node_modules\firebase-tools\node_modules\configstore\index.js:61:20)
+    at Configstore.set (C:\Users\MUHAMMAD TAHA SOOMRO\AppData\Roaming\npm\node_modules\firebase-tools\node_modules\configstore\index.js:91:12)
+    at Command.actionFn (C:\Users\MUHAMMAD TAHA SOOMRO\AppData\Roaming\npm\node_modules\firebase-tools\lib\commands\login.js:46:31)
+[error] 
+[error] Error: An unexpected error has occurred.
+[debug] [2023-05-18T23:20:37.617Z] ----------------------------------------------------------------------
+[debug] [2023-05-18T23:20:37.620Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\MUHAMMAD TAHA SOOMRO\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2023-05-18T23:20:37.621Z] CLI Version:   12.0.1
+[debug] [2023-05-18T23:20:37.621Z] Platform:      win32
+[debug] [2023-05-18T23:20:37.622Z] Node Version:  v18.16.0
+[debug] [2023-05-18T23:20:37.623Z] Time:          Fri May 19 2023 04:20:37 GMT+0500 (Pakistan Standard Time)
+[debug] [2023-05-18T23:20:37.623Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2023-05-18T23:20:37.633Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2023-05-18T23:20:37.634Z] > authorizing via signed-in user (nadiralisoomro.cs@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  C:\Users\MUHAMMAD TAHA SOOMRO\Desktop\today
+
+[info] 
+=== Project Setup
+[info] 
+[info] First, let's associate this project directory with a Firebase project.
+[info] You can create multiple project aliases by running firebase use --add, 
+[info] but for now we'll just set up a default project.
+[info] 
+[debug] [2023-05-18T23:22:53.521Z] >>> [apiv2][query] GET https://firebase.googleapis.com/v1beta1/projects pageSize=100
+[debug] [2023-05-18T23:22:54.567Z] <<< [apiv2][status] GET https://firebase.googleapis.com/v1beta1/projects 200
+[debug] [2023-05-18T23:22:54.567Z] <<< [apiv2][body] GET https://firebase.googleapis.com/v1beta1/projects [omitted]
+[info] i  Using project online-nicvd (online Nicvd) 
+[info] 
+=== Hosting Setup
+[info] 
+[info] Your public directory is the folder (relative to your project directory) that
+[info] will contain Hosting assets to be uploaded with firebase deploy. If you
+[info] have a build process for your assets, use your build's output directory.
+[info] 
+[debug] [2023-05-18T23:25:27.232Z] >>> [apiv2][query] GET https://www.gstatic.com/firebasejs/releases.json [none]
+[debug] [2023-05-18T23:25:27.721Z] <<< [apiv2][status] GET https://www.gstatic.com/firebasejs/releases.json 200
+[debug] [2023-05-18T23:25:27.722Z] <<< [apiv2][body] GET https://www.gstatic.com/firebasejs/releases.json {"current":{"version":"9.22.0","browserURL":"https://www.gstatic.com/firebasejs/9.22.0/firebase.js","packageURL":"https://www.gstatic.com/firebasejs/9.22.0/firebase.tgz"},"live":{"version":"9.22","browserURL":"https://www.gstatic.com/firebasejs/live/9.22/firebase.js","packageURL":"https://www.gstatic.com/firebasejs/live/9.22/firebase.tgz"},"components":{"analytics":"https://www.gstatic.com/firebasejs/9.22.0/firebase-analytics.js","app":"https://www.gstatic.com/firebasejs/9.22.0/firebase-app.js","app-check":"https://www.gstatic.com/firebasejs/9.22.0/firebase-app-check.js","auth":"https://www.gstatic.com/firebasejs/9.22.0/firebase-auth.js","auth/cordova":"https://www.gstatic.com/firebasejs/9.22.0/firebase-auth/cordova.js","auth/react-native":"https://www.gstatic.com/firebasejs/9.22.0/firebase-auth/react-native.js","functions":"https://www.gstatic.com/firebasejs/9.22.0/firebase-functions.js","firestore":"https://www.gstatic.com/firebasejs/9.22.0/firebase-firestore.js","firestore/lite":"https://www.gstatic.com/firebasejs/9.22.0/firebase-firestore/lite.js","installations":"https://www.gstatic.com/firebasejs/9.22.0/firebase-installations.js","storage":"https://www.gstatic.com/firebasejs/9.22.0/firebase-storage.js","performance":"https://www.gstatic.com/firebasejs/9.22.0/firebase-performance.js","remote-config":"https://www.gstatic.com/firebasejs/9.22.0/firebase-remote-config.js","messaging":"https://www.gstatic.com/firebasejs/9.22.0/firebase-messaging.js","messaging/sw":"https://www.gstatic.com/firebasejs/9.22.0/firebase-messaging/sw.js","database":"https://www.gstatic.com/firebasejs/9.22.0/firebase-database.js","firestore.memory":"https://www.gstatic.com/firebasejs/9.22.0/firebase-firestore.memory.js"}}
+[info] +  Wrote public/index.html 
+[info] 
+[info] i  Didn't detect a .git folder. Assuming C:\Users\MUHAMMAD TAHA SOOMRO\Desktop\today is the project root. 
+[info] i  Authorizing with GitHub to upload your service account to a GitHub repository's secrets store. 
+[info] 
+[info] Visit this URL on this device to log in:
+[info] https://github.com/login/oauth/authorize?client_id=89cf50f02ac6aaed3484&state=506801046&redirect_uri=http%3A%2F%2Flocalhost%3A9005&scope=read%3Auser%20repo%20public_repo
+[info] 
+[info] Waiting for authentication...
+[debug] [2023-05-18T23:37:20.243Z] >>> [apiv2][query] POST https://github.com/login/oauth/access_token [none]
+[debug] [2023-05-18T23:37:20.245Z] >>> [apiv2][body] POST https://github.com/login/oauth/access_token [stream]
+[debug] [2023-05-18T23:37:21.268Z] <<< [apiv2][status] POST https://github.com/login/oauth/access_token 200
+[debug] [2023-05-18T23:37:21.282Z] <<< [apiv2][body] POST https://github.com/login/oauth/access_token {"access_token":"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","token_type":"bearer","scope":"read:user,repo"}
+[debug] [2023-05-18T23:37:21.344Z] >>> [apiv2][query] GET https://api.github.com/user [none]
+[debug] [2023-05-18T23:37:22.336Z] <<< [apiv2][status] GET https://api.github.com/user 200
+[debug] [2023-05-18T23:37:22.336Z] <<< [apiv2][body] GET https://api.github.com/user {"login":"Nadirali-nicvd","id":134020260,"node_id":"U_kgDOB_z8pA","avatar_url":"https://avatars.githubusercontent.com/u/134020260?v=4","gravatar_id":"","url":"https://api.github.com/users/Nadirali-nicvd","html_url":"https://github.com/Nadirali-nicvd","followers_url":"https://api.github.com/users/Nadirali-nicvd/followers","following_url":"https://api.github.com/users/Nadirali-nicvd/following{/other_user}","gists_url":"https://api.github.com/users/Nadirali-nicvd/gists{/gist_id}","starred_url":"https://api.github.com/users/Nadirali-nicvd/starred{/owner}{/repo}","subscriptions_url":"https://api.github.com/users/Nadirali-nicvd/subscriptions","organizations_url":"https://api.github.com/users/Nadirali-nicvd/orgs","repos_url":"https://api.github.com/users/Nadirali-nicvd/repos","events_url":"https://api.github.com/users/Nadirali-nicvd/events{/privacy}","received_events_url":"https://api.github.com/users/Nadirali-nicvd/received_events","type":"User","site_admin":false,"name":null,"company":null,"blog":"","location":null,"email":null,"hireable":null,"bio":null,"twitter_username":null,"public_repos":0,"public_gists":0,"followers":0,"following":0,"created_at":"2023-05-18T23:36:36Z","updated_at":"2023-05-18T23:36:36Z","private_gists":0,"total_private_repos":0,"owned_private_repos":0,"disk_usage":0,"collaborators":0,"two_factor_authentication":false,"plan":{"name":"free","space":976562499,"collaborators":0,"private_repos":10000}}
+[info] 
+[info] +  Success! Logged into GitHub as Nadirali-nicvd 
+[info] 
+[debug] [2023-05-18T23:37:40.259Z] >>> [apiv2][query] GET https://api.github.com/repos//actions/secrets/public-key type=owner
+[debug] [2023-05-18T23:37:41.146Z] <<< [apiv2][status] GET https://api.github.com/repos//actions/secrets/public-key 404
+[debug] [2023-05-18T23:37:41.146Z] <<< [apiv2][body] GET https://api.github.com/repos//actions/secrets/public-key {"message":"Not Found","documentation_url":"https://docs.github.com/rest"}
+[info] 
+[info] 
+[error] !  The provided authorization cannot be used with this repository. If this repository is in an organization, did you remember to grant access? 
+[info] 
+[info] i  Action required: Visit this URL to ensure access has been granted to the appropriate organization(s) for the Firebase CLI GitHub OAuth App: 
+[info] https://github.com/settings/connections/applications/89cf50f02ac6aaed3484
+[info] 
+[debug] [2023-05-18T23:39:33.270Z] >>> [apiv2][query] GET https://api.github.com/repos//actions/secrets/public-key type=owner
+[debug] [2023-05-18T23:39:34.407Z] <<< [apiv2][status] GET https://api.github.com/repos//actions/secrets/public-key 401
+[debug] [2023-05-18T23:39:34.408Z] <<< [apiv2][body] GET https://api.github.com/repos//actions/secrets/public-key {"message":"Bad credentials","documentation_url":"https://docs.github.com/rest"}
+[debug] [2023-05-18T23:39:39.125Z] >>> [apiv2][query] GET https://api.github.com/repos//actions/secrets/public-key type=owner
+[debug] [2023-05-18T23:39:39.975Z] <<< [apiv2][status] GET https://api.github.com/repos//actions/secrets/public-key 401
+[debug] [2023-05-18T23:39:39.975Z] <<< [apiv2][body] GET https://api.github.com/repos//actions/secrets/public-key {"message":"Bad credentials","documentation_url":"https://docs.github.com/rest"}
+[debug] [2023-05-18T23:40:13.170Z] >>> [apiv2][query] GET https://api.github.com/repos//actions/secrets/public-key type=owner
+[debug] [2023-05-18T23:40:14.061Z] <<< [apiv2][status] GET https://api.github.com/repos//actions/secrets/public-key 401
+[debug] [2023-05-18T23:40:14.061Z] <<< [apiv2][body] GET https://api.github.com/repos//actions/secrets/public-key {"message":"Bad credentials","documentation_url":"https://docs.github.com/rest"}
+[debug] [2023-05-18T23:42:56.156Z] >>> [apiv2][query] GET https://api.github.com/repos/nadirali-nicvd\/actions/secrets/public-key type=owner
+[debug] [2023-05-18T23:42:57.124Z] <<< [apiv2][status] GET https://api.github.com/repos/nadirali-nicvd\/actions/secrets/public-key 401
+[debug] [2023-05-18T23:42:57.124Z] <<< [apiv2][body] GET https://api.github.com/repos/nadirali-nicvd\/actions/secrets/public-key {"message":"Bad credentials","documentation_url":"https://docs.github.com/rest"}
+[debug] [2023-05-18T23:42:58.443Z] >>> [apiv2][query] GET https://api.github.com/repos/nadirali-nicvd/actions/secrets/public-key type=owner
+[debug] [2023-05-18T23:42:59.281Z] <<< [apiv2][status] GET https://api.github.com/repos/nadirali-nicvd/actions/secrets/public-key 401
+[debug] [2023-05-18T23:42:59.282Z] <<< [apiv2][body] GET https://api.github.com/repos/nadirali-nicvd/actions/secrets/public-key {"message":"Bad credentials","documentation_url":"https://docs.github.com/rest"}
+[debug] [2023-05-18T23:43:13.521Z] >>> [apiv2][query] GET https://api.github.com/repos/nadirali-nicvd/actions/secrets/public-key type=owner
+[debug] [2023-05-18T23:43:14.071Z] >>> [apiv2][query] GET https://api.github.com/repos//actions/secrets/public-key type=owner
+[debug] [2023-05-18T23:43:14.393Z] >>> [apiv2][query] GET https://api.github.com/repos//actions/secrets/public-key type=owner
+[debug] [2023-05-18T23:43:14.447Z] <<< [apiv2][status] GET https://api.github.com/repos/nadirali-nicvd/actions/secrets/public-key 401
+[debug] [2023-05-18T23:43:14.448Z] <<< [apiv2][body] GET https://api.github.com/repos/nadirali-nicvd/actions/secrets/public-key {"message":"Bad credentials","documentation_url":"https://docs.github.com/rest"}
+[debug] [2023-05-18T23:43:14.920Z] <<< [apiv2][status] GET https://api.github.com/repos//actions/secrets/public-key 401
+[debug] [2023-05-18T23:43:14.920Z] <<< [apiv2][body] GET https://api.github.com/repos//actions/secrets/public-key {"message":"Bad credentials","documentation_url":"https://docs.github.com/rest"}
+[debug] [2023-05-18T23:43:14.964Z] >>> [apiv2][query] GET https://api.github.com/repos/nadirali-nicvd/actions/secrets/public-key type=owner
+[debug] [2023-05-18T23:43:15.235Z] <<< [apiv2][status] GET https://api.github.com/repos//actions/secrets/public-key 401
+[debug] [2023-05-18T23:43:15.235Z] <<< [apiv2][body] GET https://api.github.com/repos//actions/secrets/public-key {"message":"Bad credentials","documentation_url":"https://docs.github.com/rest"}
+[debug] [2023-05-18T23:43:15.455Z] >>> [apiv2][query] GET https://api.github.com/repos//actions/secrets/public-key type=owner
+[debug] [2023-05-18T23:43:15.801Z] <<< [apiv2][status] GET https://api.github.com/repos/nadirali-nicvd/actions/secrets/public-key 401
+[debug] [2023-05-18T23:43:15.801Z] <<< [apiv2][body] GET https://api.github.com/repos/nadirali-nicvd/actions/secrets/public-key {"message":"Bad credentials","documentation_url":"https://docs.github.com/rest"}
+[debug] [2023-05-18T23:43:16.336Z] >>> [apiv2][query] GET https://api.github.com/repos/nadirali-nicvd/actions/secrets/public-key type=owner
+[debug] [2023-05-18T23:43:16.359Z] <<< [apiv2][status] GET https://api.github.com/repos//actions/secrets/public-key 401
+[debug] [2023-05-18T23:43:16.359Z] <<< [apiv2][body] GET https://api.github.com/repos//actions/secrets/public-key {"message":"Bad credentials","documentation_url":"https://docs.github.com/rest"}
+[debug] [2023-05-18T23:43:17.200Z] <<< [apiv2][status] GET https://api.github.com/repos/nadirali-nicvd/actions/secrets/public-key 401
+[debug] [2023-05-18T23:43:17.200Z] <<< [apiv2][body] GET https://api.github.com/repos/nadirali-nicvd/actions/secrets/public-key {"message":"Bad credentials","documentation_url":"https://docs.github.com/rest"}
+[debug] [2023-05-18T23:50:23.071Z] >>> [apiv2][query] GET https://api.github.com/repos/nadirali-nicvd/actions/secrets/public-key type=owner
+[debug] [2023-05-18T23:50:23.958Z] <<< [apiv2][status] GET https://api.github.com/repos/nadirali-nicvd/actions/secrets/public-key 401
+[debug] [2023-05-18T23:50:23.959Z] <<< [apiv2][body] GET https://api.github.com/repos/nadirali-nicvd/actions/secrets/public-key {"message":"Bad credentials","documentation_url":"https://docs.github.com/rest"}
+[debug] [2023-05-18T23:50:26.052Z] >>> [apiv2][query] GET https://api.github.com/repos/nadirali-nicvd/actions/secrets/public-key type=owner
+[debug] [2023-05-18T23:50:26.495Z] >>> [apiv2][query] GET https://api.github.com/repos//actions/secrets/public-key type=owner
+[debug] [2023-05-18T23:50:26.933Z] <<< [apiv2][status] GET https://api.github.com/repos/nadirali-nicvd/actions/secrets/public-key 401
+[debug] [2023-05-18T23:50:26.934Z] <<< [apiv2][body] GET https://api.github.com/repos/nadirali-nicvd/actions/secrets/public-key {"message":"Bad credentials","documentation_url":"https://docs.github.com/rest"}
+[debug] [2023-05-18T23:50:27.357Z] <<< [apiv2][status] GET https://api.github.com/repos//actions/secrets/public-key 401
+[debug] [2023-05-18T23:50:27.358Z] <<< [apiv2][body] GET https://api.github.com/repos//actions/secrets/public-key {"message":"Bad credentials","documentation_url":"https://docs.github.com/rest"}
+[debug] [2023-05-18T23:50:27.361Z] >>> [apiv2][query] GET https://api.github.com/repos/nadirali-nicvd/actions/secrets/public-key type=owner
+[debug] [2023-05-18T23:50:28.317Z] <<< [apiv2][status] GET https://api.github.com/repos/nadirali-nicvd/actions/secrets/public-key 401
+[debug] [2023-05-18T23:50:28.317Z] <<< [apiv2][body] GET https://api.github.com/repos/nadirali-nicvd/actions/secrets/public-key {"message":"Bad credentials","documentation_url":"https://docs.github.com/rest"}
+[debug] [2023-05-18T23:50:31.663Z] >>> [apiv2][query] GET https://api.github.com/repos//actions/secrets/public-key type=owner
+[debug] [2023-05-18T23:50:32.635Z] <<< [apiv2][status] GET https://api.github.com/repos//actions/secrets/public-key 401
+[debug] [2023-05-18T23:50:32.635Z] <<< [apiv2][body] GET https://api.github.com/repos//actions/secrets/public-key {"message":"Bad credentials","documentation_url":"https://docs.github.com/rest"}
+[debug] [2023-05-18T23:50:34.028Z] >>> [apiv2][query] GET https://api.github.com/repos//actions/secrets/public-key type=owner
+[debug] [2023-05-18T23:50:34.242Z] >>> [apiv2][query] GET https://api.github.com/repos//actions/secrets/public-key type=owner
+[debug] [2023-05-18T23:50:34.436Z] >>> [apiv2][query] GET https://api.github.com/repos//actions/secrets/public-key type=owner
+[debug] [2023-05-18T23:50:34.925Z] <<< [apiv2][status] GET https://api.github.com/repos//actions/secrets/public-key 401
+[debug] [2023-05-18T23:50:34.926Z] <<< [apiv2][body] GET https://api.github.com/repos//actions/secrets/public-key {"message":"Bad credentials","documentation_url":"https://docs.github.com/rest"}
+[debug] [2023-05-18T23:50:35.106Z] <<< [apiv2][status] GET https://api.github.com/repos//actions/secrets/public-key 401
+[debug] [2023-05-18T23:50:35.106Z] <<< [apiv2][body] GET https://api.github.com/repos//actions/secrets/public-key {"message":"Bad credentials","documentation_url":"https://docs.github.com/rest"}
+[debug] [2023-05-18T23:50:35.315Z] <<< [apiv2][status] GET https://api.github.com/repos//actions/secrets/public-key 401
+[debug] [2023-05-18T23:50:35.315Z] <<< [apiv2][body] GET https://api.github.com/repos//actions/secrets/public-key {"message":"Bad credentials","documentation_url":"https://docs.github.com/rest"}
+[debug] [2023-05-18T23:50:35.754Z] >>> [apiv2][query] GET https://api.github.com/repos//actions/secrets/public-key type=owner
+[debug] [2023-05-18T23:50:36.144Z] >>> [apiv2][query] GET https://api.github.com/repos//actions/secrets/public-key type=owner
+[debug] [2023-05-18T23:50:36.534Z] >>> [apiv2][query] GET https://api.github.com/repos//actions/secrets/public-key type=owner
+[debug] [2023-05-18T23:50:36.600Z] <<< [apiv2][status] GET https://api.github.com/repos//actions/secrets/public-key 401
+[debug] [2023-05-18T23:50:36.600Z] <<< [apiv2][body] GET https://api.github.com/repos//actions/secrets/public-key {"message":"Bad credentials","documentation_url":"https://docs.github.com/rest"}
+[debug] [2023-05-18T23:50:36.913Z] >>> [apiv2][query] GET https://api.github.com/repos//actions/secrets/public-key type=owner
+[debug] [2023-05-18T23:50:36.983Z] <<< [apiv2][status] GET https://api.github.com/repos//actions/secrets/public-key 401
+[debug] [2023-05-18T23:50:36.983Z] <<< [apiv2][body] GET https://api.github.com/repos//actions/secrets/public-key {"message":"Bad credentials","documentation_url":"https://docs.github.com/rest"}
+[debug] [2023-05-18T23:50:37.332Z] >>> [apiv2][query] GET https://api.github.com/repos//actions/secrets/public-key type=owner
+[debug] [2023-05-18T23:50:37.379Z] <<< [apiv2][status] GET https://api.github.com/repos//actions/secrets/public-key 401
+[debug] [2023-05-18T23:50:37.379Z] <<< [apiv2][body] GET https://api.github.com/repos//actions/secrets/public-key {"message":"Bad credentials","documentation_url":"https://docs.github.com/rest"}
+[debug] [2023-05-18T23:50:37.723Z] >>> [apiv2][query] GET https://api.github.com/repos//actions/secrets/public-key type=owner
+[debug] [2023-05-18T23:50:37.743Z] <<< [apiv2][status] GET https://api.github.com/repos//actions/secrets/public-key 401
+[debug] [2023-05-18T23:50:37.744Z] <<< [apiv2][body] GET https://api.github.com/repos//actions/secrets/public-key {"message":"Bad credentials","documentation_url":"https://docs.github.com/rest"}
+[debug] [2023-05-18T23:50:37.933Z] >>> [apiv2][query] GET https://api.github.com/repos//actions/secrets/public-key type=owner
+[debug] [2023-05-18T23:50:38.109Z] >>> [apiv2][query] GET https://api.github.com/repos//actions/secrets/public-key type=owner
+[debug] [2023-05-18T23:50:38.144Z] <<< [apiv2][status] GET https://api.github.com/repos//actions/secrets/public-key 401
+[debug] [2023-05-18T23:50:38.145Z] <<< [apiv2][body] GET https://api.github.com/repos//actions/secrets/public-key {"message":"Bad credentials","documentation_url":"https://docs.github.com/rest"}
+[debug] [2023-05-18T23:50:38.247Z] >>> [apiv2][query] GET https://api.github.com/repos//actions/secrets/public-key type=owner
+[debug] [2023-05-18T23:50:38.365Z] >>> [apiv2][query] GET https://api.github.com/repos//actions/secrets/public-key type=owner
+[debug] [2023-05-18T23:50:38.550Z] <<< [apiv2][status] GET https://api.github.com/repos//actions/secrets/public-key 401
+[debug] [2023-05-18T23:50:38.550Z] <<< [apiv2][body] GET https://api.github.com/repos//actions/secrets/public-key {"message":"Bad credentials","documentation_url":"https://docs.github.com/rest"}
+[debug] [2023-05-18T23:50:38.765Z] <<< [apiv2][status] GET https://api.github.com/repos//actions/secrets/public-key 401
+[debug] [2023-05-18T23:50:38.765Z] <<< [apiv2][body] GET https://api.github.com/repos//actions/secrets/public-key {"message":"Bad credentials","documentation_url":"https://docs.github.com/rest"}
+[debug] [2023-05-18T23:50:38.956Z] <<< [apiv2][status] GET https://api.github.com/repos//actions/secrets/public-key 401
+[debug] [2023-05-18T23:50:38.959Z] <<< [apiv2][body] GET https://api.github.com/repos//actions/secrets/public-key {"message":"Bad credentials","documentation_url":"https://docs.github.com/rest"}
+[debug] [2023-05-18T23:50:39.109Z] <<< [apiv2][status] GET https://api.github.com/repos//actions/secrets/public-key 401
+[debug] [2023-05-18T23:50:39.109Z] <<< [apiv2][body] GET https://api.github.com/repos//actions/secrets/public-key {"message":"Bad credentials","documentation_url":"https://docs.github.com/rest"}
+[debug] [2023-05-18T23:50:39.173Z] <<< [apiv2][status] GET https://api.github.com/repos//actions/secrets/public-key 401
+[debug] [2023-05-18T23:50:39.174Z] <<< [apiv2][body] GET https://api.github.com/repos//actions/secrets/public-key {"message":"Bad credentials","documentation_url":"https://docs.github.com/rest"}
+[debug] [2023-05-19T00:00:46.444Z] >>> [apiv2][query] GET https://api.github.com/repos/https://github.com/Nadirali-nicvd/nadiralinicvd.git/actions/secrets/public-key type=owner
+[debug] [2023-05-19T00:00:47.320Z] <<< [apiv2][status] GET https://api.github.com/repos/https://github.com/Nadirali-nicvd/nadiralinicvd.git/actions/secrets/public-key 401
+[debug] [2023-05-19T00:00:47.320Z] <<< [apiv2][body] GET https://api.github.com/repos/https://github.com/Nadirali-nicvd/nadiralinicvd.git/actions/secrets/public-key {"message":"Bad credentials","documentation_url":"https://docs.github.com/rest"}
+[debug] [2023-05-19T00:00:50.022Z] >>> [apiv2][query] GET https://api.github.com/repos/https://github.com/Nadirali-nicvd/nadiralinicvd.git/actions/secrets/public-key type=owner
+[debug] [2023-05-19T00:00:50.871Z] <<< [apiv2][status] GET https://api.github.com/repos/https://github.com/Nadirali-nicvd/nadiralinicvd.git/actions/secrets/public-key 401
+[debug] [2023-05-19T00:00:50.871Z] <<< [apiv2][body] GET https://api.github.com/repos/https://github.com/Nadirali-nicvd/nadiralinicvd.git/actions/secrets/public-key {"message":"Bad credentials","documentation_url":"https://docs.github.com/rest"}
+[debug] [2023-05-19T00:01:24.973Z] >>> [apiv2][query] GET https://api.github.com/repos/nadirali-nicvd/actions/secrets/public-key type=owner
+[debug] [2023-05-19T00:01:25.878Z] <<< [apiv2][status] GET https://api.github.com/repos/nadirali-nicvd/actions/secrets/public-key 401
+[debug] [2023-05-19T00:01:25.878Z] <<< [apiv2][body] GET https://api.github.com/repos/nadirali-nicvd/actions/secrets/public-key {"message":"Bad credentials","documentation_url":"https://docs.github.com/rest"}
+[debug] [2023-05-19T00:01:30.129Z] >>> [apiv2][query] GET https://api.github.com/repos/nadirali-nicvd/actions/secrets/public-key type=owner
+[debug] [2023-05-19T00:01:31.030Z] <<< [apiv2][status] GET https://api.github.com/repos/nadirali-nicvd/actions/secrets/public-key 401
+[debug] [2023-05-19T00:01:31.030Z] <<< [apiv2][body] GET https://api.github.com/repos/nadirali-nicvd/actions/secrets/public-key {"message":"Bad credentials","documentation_url":"https://docs.github.com/rest"}
+[debug] [2023-05-19T00:03:22.782Z] >>> [apiv2][query] GET https://api.github.com/repos//actions/secrets/public-key type=owner
+[debug] [2023-05-19T00:03:23.662Z] <<< [apiv2][status] GET https://api.github.com/repos//actions/secrets/public-key 401
+[debug] [2023-05-19T00:03:23.662Z] <<< [apiv2][body] GET https://api.github.com/repos//actions/secrets/public-key {"message":"Bad credentials","documentation_url":"https://docs.github.com/rest"}
